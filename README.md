@@ -9,7 +9,7 @@ Assignment link :- [here](https://tesy-teal.vercel.app/).
 
 
 ## Features
-All crude Operations
+All CRUD Operations
 - View network requests including method, URL, type, status, and duration.
 - Filter requests by  content type.
 - Displaying detailed request information
@@ -20,6 +20,17 @@ All crude Operations
 - Css
 
 ## Screenshots
+![Screenshot 2024-07-15 145110](https://github.com/user-attachments/assets/c49f5279-027e-4451-be51-5e9587db530c)
+
+![Screenshot 2024-07-15 145730](https://github.com/user-attachments/assets/62fffe5f-27f9-40b4-8422-8f97ae511505)
+
+![Screenshot 2024-07-15 145730](https://github.com/user-attachments/assets/1fa0c990-8c83-4d5b-be16-9bdb5b8fa26b)
+
+![Screenshot 2024-07-15 145739](https://github.com/user-attachments/assets/f3de8c72-d010-4aaf-997a-689f15e69954)
+
+
+
+
 
 
 
