@@ -24,9 +24,10 @@ All CRUD Operations
 
 ![Screenshot 2024-07-15 145730](https://github.com/user-attachments/assets/62fffe5f-27f9-40b4-8422-8f97ae511505)
 
-![Screenshot 2024-07-15 145730](https://github.com/user-attachments/assets/1fa0c990-8c83-4d5b-be16-9bdb5b8fa26b)
-
 ![Screenshot 2024-07-15 145739](https://github.com/user-attachments/assets/f3de8c72-d010-4aaf-997a-689f15e69954)
+
+![Screenshot 2024-07-15 145750](https://github.com/user-attachments/assets/123e6d70-13bf-448f-96a2-58d0ed55627c)
+
 
 
 
